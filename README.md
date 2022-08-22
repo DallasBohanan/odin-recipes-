@@ -1,1 +1,2 @@
 # odin-recipes-
+This is the beggining of my odin project, where i will be learning and imporving important developer skills that will help me be more consistant reliable and knowledgeable of coding procesures and tools. 
